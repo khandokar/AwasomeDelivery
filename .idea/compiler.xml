@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="driver-svc" />
+        <module name="notification-svc" />
+        <module name="user-svc" />
+        <module name="payment-svc" />
+        <module name="order-svc" />
+        <module name="restaurantService" />
+        <module name="api-gateway" />
+        <module name="search-svc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-gateway" target="11" />
+      <module name="driver-svc" target="11" />
+      <module name="notification-svc" target="11" />
+      <module name="order-svc" target="11" />
+      <module name="payment-svc" target="11" />
+      <module name="restaurantService" target="11" />
+      <module name="search-svc" target="11" />
+      <module name="user-svc" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-gateway" options="-parameters" />
+      <module name="driver-svc" options="-parameters" />
+      <module name="notification-svc" options="-parameters" />
+      <module name="order-svc" options="-parameters" />
+      <module name="payment-svc" options="-parameters" />
+      <module name="restaurantService" options="-parameters" />
+      <module name="search-svc" options="-parameters" />
+      <module name="user-svc" options="-parameters" />
+    </option>
+  </component>
+</project>

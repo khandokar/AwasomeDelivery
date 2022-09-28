@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FInal Project.iml" filepath="$PROJECT_DIR$/.idea/FInal Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/awesome-delivery/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/awesome-delivery/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/awesome-delivery/driver-svc/driver-svc.iml" filepath="$PROJECT_DIR$/awesome-delivery/driver-svc/driver-svc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/awesome-delivery/notification-svc/notification-svc.iml" filepath="$PROJECT_DIR$/awesome-delivery/notification-svc/notification-svc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/awesome-delivery/order-svc/order-svc.iml" filepath="$PROJECT_DIR$/awesome-delivery/order-svc/order-svc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/awesome-delivery/payment-svc/payment-svc.iml" filepath="$PROJECT_DIR$/awesome-delivery/payment-svc/payment-svc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/awesome-delivery/restaurant-svc/restaurantService.iml" filepath="$PROJECT_DIR$/awesome-delivery/restaurant-svc/restaurantService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/awesome-delivery/search-svc/search-svc.iml" filepath="$PROJECT_DIR$/awesome-delivery/search-svc/search-svc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/awesome-delivery/user-svc/user-svc.iml" filepath="$PROJECT_DIR$/awesome-delivery/user-svc/user-svc.iml" />
+    </modules>
+  </component>
+</project>
